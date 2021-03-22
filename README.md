@@ -51,10 +51,8 @@ While AFK-ing, I like to
   <a href="https://cloud.google.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlecloud.svg" alt="googlecloud" height="30" width="40" /></a>
   <a href="https://aws.amazon.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg" alt="amazonaws" height="30" width="40" /></a>
   <a href="https://heroku.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/heroku.svg" alt="heroku" height="30" width="40" /></a>
-  <a href="https://openshift.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redhatopenshift.svg" alt="openshift" height="30" width="40" /></a>
   <a href="https://mysql.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="mysql" height="30" width="40" /></a>
   <a href="https://mongodb.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="mongodb" height="30" width="40" /></a>
   <a href="https://linux.org" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg" alt="linux" height="30" width="40" /></a>
-  <a href="https://latex-project.org" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/latex.svg" alt="latex" height="30" width="40" /></a>
   
 </p>
