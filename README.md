@@ -23,7 +23,7 @@ While AFK-ing, I like to
 - 🚶🏻 walk
 - 😴 sleep, day-dream also?
 - 🔭 explore new things
-- 🚀 travel to mars
+- 🚀 travel to MARS
 
 **My Tenets**
 - 🔑: focus, simplicity
